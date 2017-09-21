@@ -1,0 +1,2 @@
+ALTER TABLE `uzsakymas` CHANGE `fk_adminas` `fk_adminas` VARCHAR(30) CHARACTER SET utf8 COLLATE utf8_lithuanian_ci NULL;
+ALTER TABLE `uzsakymas` CHANGE `fk_uzsakovas` `fk_uzsakovas` VARCHAR(30) CHARACTER SET utf8 COLLATE utf8_lithuanian_ci NULL;

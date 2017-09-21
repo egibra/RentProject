@@ -1,0 +1,29 @@
+.hidden-row{
+    padding: 0 !important;
+}
+
+.category-attributes{
+    display: none;
+}
+
+.tab-content{
+    padding-top: 15px;
+}
+
+.btn-col{
+    padding-bottom: 15px;
+    padding-left : 30px;
+}
+
+.table-btn{
+    cursor: pointer;
+}
+
+.picture-upload-form{
+    padding-top: 20px;
+}
+
+.product-picture-col{
+    display:block;
+    text-align:center
+}

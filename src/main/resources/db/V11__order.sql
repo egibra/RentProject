@@ -1,0 +1,1 @@
+ALTER TABLE `uzsakymo_daiktas` ADD `kiekis` INT NOT NULL AFTER `fk_uzsakymas`;

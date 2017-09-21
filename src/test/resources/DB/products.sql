@@ -1,0 +1,3 @@
+INSERT INTO `daiktas` (`pavadinimas`, `verte`, `paros_kaina`, `isleidimo_data`, `trumpas_aprasymas`, `ilgas_aprasymas`, `nuolaida_proc`, `kiekis_turimas_viso`, `kiekis_isnuomota_dabar`, `kiekis_isnuomota_viso`, `kodas`, `pagrindine_nuotrauka`, `kategorija`, `id`, `ar_nuomojamas`) VALUES
+  ('Tea Spoon', '87.72', '5.43', '2009-06-02', 'sapien.', 'hymenaeos. Mauris ut quam vel sapien imperdiet ornare. In faucibus. Morbi vehicula.', '43.00', 17, 3, 17, 'M9F03DN', NULL, 1, 1, 1),
+  ('arcu.', '47.45', '5.88', '2011-03-03', 'Nulla tincidunt, neque vitae semper egestas, urna justo', 'neque. Nullam nisl. Maecenas malesuada fringilla est. Mauris eu turpis. Nulla aliquet. Proin velit.', '61.00', 2, 0, 44, 'K2I87AG', NULL, 2, 2, 0);

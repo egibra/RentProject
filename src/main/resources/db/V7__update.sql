@@ -1,0 +1,1 @@
+ALTER TABLE `daiktas` CHANGE `nuolaida_proc` `nuolaida_proc` DECIMAL(5,2) NOT NULL DEFAULT '0';

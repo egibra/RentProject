@@ -1,0 +1,1 @@
+ALTER TABLE `daiktas` ADD `ar_nuomojamas` BOOLEAN NOT NULL DEFAULT "1";
